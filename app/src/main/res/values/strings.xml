@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TOMCZAS-MED</string>
+    <string name="no_internet_title">Brak Internetu</string>
+    <string name="no_internet_message">Aplikacja wymaga połączenia internetowego. Proszę połączyć się z siecią i spróbować ponownie.</string>
+    <string name="exit_button">Zamknij</string>
+</resources>
